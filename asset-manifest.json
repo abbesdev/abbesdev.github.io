@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2646a9f.css",
+    "main.js": "/static/js/main.5514856b.js",
+    "static/js/787.05d8b0d7.chunk.js": "/static/js/787.05d8b0d7.chunk.js",
+    "static/media/vv1.mp4": "/static/media/vv1.a60599b3616c94995e02.mp4",
+    "static/media/verifuser.svg": "/static/media/verifuser.eb0e072201ad8b1f3eb5ac489a22d298.svg",
+    "static/media/follow.svg": "/static/media/follow.acb0b3b6eb68551351a65b8cfba0a34f.svg",
+    "static/media/abbesmohamed_cv.pdf": "/static/media/abbesmohamed_cv.de4bbb958005484bd5a9.pdf",
+    "static/media/feed.svg": "/static/media/feed.d5ce7efed66602f55ba2b4f5d2b0c857.svg",
+    "static/media/articleadd.svg": "/static/media/articleadd.a5958369711c96226da04bc296c1e87f.svg",
+    "static/media/chiefcheck.svg": "/static/media/chiefcheck.d9c09e5eea1dc5feb8c25ab5b519b328.svg",
+    "static/media/topic.svg": "/static/media/topic.049672690f4b184f169d85230fddea6f.svg",
+    "static/media/signupp.svg": "/static/media/signupp.43dc86b6b9641fecba57162a571948d7.svg",
+    "static/media/chiefset.svg": "/static/media/chiefset.1699be3d41c1919c0c0e83a92023ed6c.svg",
+    "static/media/rolebiat.svg": "/static/media/rolebiat.c63442e2d6c93bf7a522ae196e69e365.svg",
+    "static/media/pickdate.svg": "/static/media/pickdate.21a6b6f99ea6cffed2f6795887d8edf2.svg",
+    "static/media/pickdoc.svg": "/static/media/pickdoc.df0e2d40c88627c4884a2e299114c941.svg",
+    "static/media/mock1.svg": "/static/media/mock1.e6a5b80ef6b7dc5c5c9f82fad15868d2.svg",
+    "static/media/biat.svg": "/static/media/biat.781f8cd887897a5bc46248ebae2f9d8d.svg",
+    "static/media/me.svg": "/static/media/me.fb69779e54ce614d7290517c2772dc4b.svg",
+    "static/media/headline.svg": "/static/media/headline.f2eb2af2b94131ce2ab011fa97e6ad39.svg",
+    "static/media/Abbesdev.svg": "/static/media/Abbesdev.57a0ae69497e353f045a642ccb89e0c4.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "static/media/mock2.svg": "/static/media/mock2.be040cfb17113a2d4c22ed71ceb84294.svg",
+    "main.d2646a9f.css.map": "/static/css/main.d2646a9f.css.map",
+    "main.5514856b.js.map": "/static/js/main.5514856b.js.map",
+    "787.05d8b0d7.chunk.js.map": "/static/js/787.05d8b0d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2646a9f.css",
+    "static/js/main.5514856b.js"
+  ]
+}
